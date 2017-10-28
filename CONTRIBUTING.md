@@ -20,8 +20,8 @@ Well, currently there isn't much to do. This is just some kind of "I want to tes
 [enhancement]: http://labl.es/svg?text=enhancement&bgcolor=c5def5
 [duplicate]: http://labl.es/svg?text=duplicate&bgcolor=cccccc
 [feature]: http://labl.es/svg?text=feature&bgcolor=c5def5
-[help-wanted]: http://labl.es/svg?text=help%wanted&bgcolor=c2e0c6
-[good-first-issue]: http://labl.es/svg?text=good%first%issue&bgcolor=0e8a16
+[help-wanted]: http://labl.es/svg?text=help wanted&bgcolor=c2e0c6
+[good-first-issue]: http://labl.es/svg?text=good first issue&bgcolor=0e8a16
 [priority]: http://labl.es/svg?text=priority&bgcolor=5319e7
 [question]: http://labl.es/svg?text=question&bgcolor=cc317c
 [bug]: http://labl.es/svg?text=bug&bgcolor=d93f0b
