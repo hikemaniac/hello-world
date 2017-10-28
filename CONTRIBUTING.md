@@ -2,20 +2,20 @@
 
 ## How to contribute?
 
-    Well, currently there isn't much to do. This is just some kind of "I want to test GitHub features"-repository for me.
+Well, currently there isn't much to do. This is just some kind of "I want to test GitHub features"-repository for me.
 
 ## Labels
     
-* <sub>[![enhancement][enhancement]]</sub> - General enhancements to this repository
-* <sub>[![feature][feature]]</sub> - A new feature
-* <sub>[![help-wanted][help-wanted]]</sub> - You are very welcome to contribute to these issues
-* <sub>[![good-first-issue][good-first-issue]]</sub> - These issues are very easy to resolve and you are welcome to contribute
-* <sub>[![priority][priority]]</sub> - These issues have extra priority
-* <sub>[![question][question]]</sub> - This is a question to the developers
-* <sub>[![bug][bug]]</sub> - The code does not behave as it should
-* <sub>[![wip][wip]]</sub> -  Don't start working on this issues, somebody else already has
-* <sub>[![duplicate][duplicate]]</sub> - There is already an issue like this
-* <sub>[![wontfix][wontfix]]</sub> - This issue will not be fixed, probably because it is extremely unimportant or is not what the developers would like to see
+* <sub>![enhancement][enhancement]</sub> - General enhancements to this repository
+* <sub>![feature][feature]</sub> - A new feature
+* <sub>![help-wanted][help-wanted]</sub> - You are very welcome to contribute to these issues
+* <sub>![good-first-issue][good-first-issue]</sub> - These issues are very easy to resolve and you are welcome to contribute
+* <sub>![priority][priority]</sub> - These issues have extra priority
+* <sub>![question][question]</sub> - This is a question to the developers
+* <sub>![bug][bug]</sub> - The code does not behave as it should
+* <sub>![wip][wip]</sub> -  Don't start working on this issues, somebody else already has
+* <sub>![duplicate][duplicate]</sub> - There is already an issue like this
+* <sub>![wontfix][wontfix]</sub> - This issue will not be fixed, probably because it is extremely unimportant or is not what the developers would like to see
   
 [enhancement]: http://labl.es/svg?text=enhancement&bgcolor=c5def5
 [duplicate]: http://labl.es/svg?text=duplicate&bgcolor=cccccc
