@@ -7,7 +7,7 @@ Well, currently there isn't much to do. This is just some kind of "I want to tes
 ## Labels
 
 * <sub>[![enhancement][enhancement]][enhancement_link]</sub> - General enhancements to this repository
-* <sub>[![feature][feature][feature_link]][feature_link]</sub> - A new feature
+* <sub>[![feature][feature]][feature_link]</sub> - A new feature
 * <sub>[![help-wanted][help-wanted]][help-wanted_link]</sub> - You are very welcome to contribute to these issues
 * <sub>[![good-first-issue][good-first-issue]][good-first-issue_link]</sub> - These issues are very easy to resolve and you are welcome to contribute
 * <sub>[![test][test]][test_link]</sub> - These ones are for testing GitHub or project features
