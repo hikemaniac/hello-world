@@ -6,18 +6,18 @@ Well, currently there isn't much to do. This is just some kind of "I want to tes
 
 ## Labels
 
-* <sub>[![enhancement][enhancement][enhancement_link]]</sub> - General enhancements to this repository
-* <sub>[![feature][feature][feature_link]]</sub> - A new feature
-* <sub>[![help-wanted][help-wanted][help-wanted_link]]</sub> - You are very welcome to contribute to these issues
-* <sub>[![good-first-issue][good-first-issue][good-first-issue_link]]</sub> - These issues are very easy to resolve and you are welcome to contribute
-* <sub>[![test][test][test_link]]</sub> - These ones are for testing GitHub or project features
-* <sub>[![priority][priority][priority_link]]</sub> - These issues have extra priority
-* <sub>[![question][question][question_link]]</sub> - This is a question to the developers
-* <sub>[![considering][considering][considering_link]]</sub> - We're considering if we should implement this or not
-* <sub>[![bug][bug][bug_link]]</sub> - The code does not behave as it should
-* <sub>[![wip][wip][wip_link]]</sub> -  Don't start working on this issues, somebody else already has
-* <sub>[![duplicate][duplicate][duplicate_link]]</sub> - There is already an issue like this
-* <sub>[![wontfix][wontfix][wontfix_link]]</sub> - This issue will not be fixed, probably because it is extremely unimportant or is not what the developers would like to see
+* <sub>[![enhancement][enhancement]][enhancement_link]</sub> - General enhancements to this repository
+* <sub>[![feature][feature][feature_link]][feature_link]</sub> - A new feature
+* <sub>[![help-wanted][help-wanted]][help-wanted_link]</sub> - You are very welcome to contribute to these issues
+* <sub>[![good-first-issue][good-first-issue]][good-first-issue_link]</sub> - These issues are very easy to resolve and you are welcome to contribute
+* <sub>[![test][test]][test_link]</sub> - These ones are for testing GitHub or project features
+* <sub>[![priority][priority]][priority_link]</sub> - These issues have extra priority
+* <sub>[![question][question]][question_link]</sub> - This is a question to the developers
+* <sub>[![considering][considering]][considering_link]</sub> - We're considering if we should implement this or not
+* <sub>[![bug][bug]][bug_link]</sub> - The code does not behave as it should
+* <sub>[![wip][wip]][wip_link]</sub> -  Don't start working on this issues, somebody else already has
+* <sub>[![duplicate][duplicate]][duplicate_link]</sub> - There is already an issue like this
+* <sub>[![wontfix][wontfix]][wontfix_link]</sub> - This issue will not be fixed, probably because it is extremely unimportant or is not what the developers would like to see
   
 [enhancement]: http://labl.es/svg?text=enhancement&bgcolor=c5def5
 [duplicate]: http://labl.es/svg?text=duplicate&bgcolor=cccccc
