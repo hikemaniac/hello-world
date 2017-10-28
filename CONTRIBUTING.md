@@ -1,3 +1,7 @@
+How to contribute?
+
+    Well, currently there isn't much to do. This is just some kind of "I want to test GitHub features"-repository for me.
+
 Labels
     
     enhancement - General enhancements to this repository
