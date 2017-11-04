@@ -5,5 +5,3 @@ pytho:
 sudo: false
 before_script:
   - npm run all
-after_success:
-- ./scripts/txpush.sh
