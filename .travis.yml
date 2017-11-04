@@ -1,5 +1,0 @@
-
-language: python
-python:
-  - "4"
-sudo: false
