@@ -1,6 +1,6 @@
 
 language: python
-pytho:
+python:
   - "4"
 sudo: false
 before_script:
